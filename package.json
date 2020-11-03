@@ -1,0 +1,25 @@
+{
+  "name": "ElectronApp",
+  "version": "1.0.0",
+  "description": "Primeira experiência desenvolvendo com Electron",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andraderafa72/ElectronApp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "electron-reload": "^1.5.0",
+    "electron": "^10.1.5",
+    "electron-packager": "^15.1.0"
+  },
+  "bugs": {
+    "url": "https://github.com/andraderafa72/ElectronApp/issues"
+  },
+  "homepage": "https://github.com/andraderafa72/ElectronApp#readme"
+}
